@@ -1,6 +1,8 @@
 # AnswersAi Test
 
-Figma link [here](https://www.figma.com/design/K9CnC8b6RjzCWyhdMAIRg5/AnswersAi-Frontend-Technical-Assessment?node-id=0-1&p=f)
+Figma link [here](https://www.figma.com/design/KKm7e4aPhMekHEGJmOsEW5/AnswersAi-Frontend-Technical-Assessment--Copy-?node-id=0-1&p=f&t=eecOHeeJye5FNJjX-0)
+
+Assignment Doc [here](https://drive.google.com/file/d/1Od4o1c0h1vBMi7FldgkpRjXrtgNQX2Am/view?usp=sharing)
 
 # React + TypeScript + Vite
 
