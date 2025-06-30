@@ -1,3 +1,7 @@
+# AnswersAi Test
+
+Figma link [here](https://www.figma.com/design/K9CnC8b6RjzCWyhdMAIRg5/AnswersAi-Frontend-Technical-Assessment?node-id=0-1&p=f)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
